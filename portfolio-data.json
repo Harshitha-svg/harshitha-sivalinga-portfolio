@@ -1,0 +1,212 @@
+{
+  "settings": {
+    "name": "Harshitha Sivalinga",
+    "title": "Computer Science and Business Systems Student",
+    "location": "India",
+    "summary": "Motivated Computer Science student with strong problem-solving skills and a passion for creating practical and innovative solutions.",
+    "profileImage": "https://drive.google.com/file/d/1gcYPR3Xq1C57j8SmsoUXKct2iFO5G-jx/view?usp=drive_link"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:harshisivalinga14@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "C++",
+          "HTML",
+          "CSS",
+          "SQL",
+          "R",
+          "Scikit-Learn",
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Seaborn",
+          "NLTK",
+          "PyTorch",
+          "Power BI",
+          "MS Excel"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Edunet Foundation & Microsoft",
+          "position": "AI Azure Virtual Internship",
+          "period": "May 2025 - June 2025",
+          "description": "Gained hands-on experience in AI and ML by developing AI-based projects including regression, classification and clustering using Python and Azure ML. Performed data preprocessing, feature engineering, model evaluation, and deployed AI/ML solutions on Azure cloud for real-world datasets."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Face Recognition Attendance System",
+          "description": "Built a face recognition-based attendance tracker using Streamlit, DeepFace, and OpenCV. Enabled live face registration, name input, and attendance history via a modular web interface.",
+          "tags": [
+            "Streamlit",
+            "DeepFace",
+            "OpenCV",
+            "Python"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "AI-Based Customer Segmentation Using Unsupervised Learning",
+          "description": "Implemented K-means clustering to segment customers based on purchasing behavior and usage patterns. Performed data analysis using Python libraries to uncover hidden trends and support targeted strategies.",
+          "tags": [
+            "K-means",
+            "Python",
+            "Data Analysis"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Sudoku Solver",
+          "description": "Built a Sudoku solver in C++ using backtracking for 4x4, 9x9, and 12x12 grids. Created a web interface with HTML, CSS, and JS for grid selection, puzzle input, and solution display.",
+          "tags": [
+            "C++",
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Customer Demographics Sales Dashboard",
+          "description": "Built an interactive Power BI dashboard with KPIs, charts, and maps to analyze customer demographics and sales performance. Implemented slicers and navigation for dynamic filtering and improved user experience.",
+          "tags": [
+            "Power BI",
+            "Data Visualization"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "LLM's Powered Business Intelligence Assistant ",
+          "description": "Built an AI assistant using Large Language Models to enable chat-based data querying, file ingestion, and decision-support visualizations for business insights.",
+          "tags": [
+            "Python",
+            "Streamlit",
+            "RAG",
+            "GroqAPI"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Vellore Institue of Technology",
+          "degree": "BTech -Computer Science and Business Systems",
+          "period": "2022 - Present"
+        },
+        {
+          "institution": "Oxford Vit Junior College",
+          "degree": "Intermidiate M.P.C",
+          "period": "2022"
+        },
+        {
+          "institution": "P.N.C High School",
+          "degree": "10th",
+          "period": "2020"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "NASA Hackathon (2024): Global Connectors Title",
+          "description": "Won the \"Global Connectors” title for developing a webpage on the chemosynthetic world beyond sunlight, demonstrating innovation and collaboration skills."
+        },
+        {
+          "title": "Flipkart Grid 3.0 Hackathon Participant",
+          "description": "Participated in the Flipkart Grid 3.0 Hackathon, showcasing problem-solving and innovation in real-world business challenges."
+        },
+        {
+          "title": "Oracle Generative AI Global Certification",
+          "description": "Completed the Oracle Generative AI Global Certification, demonstrating proficiency in cutting-edge AI technologies and applications."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "harshisivalinga14@gmail.com",
+      "phone": "+91-7569638455",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "github",
+          "url": "https://github.com/Harshitha-svg",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Harshitha Sivalinga. All rights reserved."
+  }
+}
